@@ -1,6 +1,6 @@
 # League-Overlay
 
-Run "Overlay.ahk" as admin.
+Run "League-Overlay.ahk" as admin.
 
 If you want to choose a different chart or adjust it for a different resolution, the recommended method is creating a new transparent image same size as your display resolution and sticking the chart guide in the desired position.
 
