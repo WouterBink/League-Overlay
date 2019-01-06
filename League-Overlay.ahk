@@ -178,7 +178,7 @@ GuiON4 := 1
 }
 return
 
-f8::
+f9::
 If (GuiON5 = 1) {
 Gui, 5: Hide
 GuiON5 := 0
@@ -190,7 +190,7 @@ GuiON5 := 1
 }
 return
 
-f9::
+f10::
 If (GuiON6 = 1) {
 Gui, 6: Hide
 GuiON6 := 0
