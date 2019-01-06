@@ -13,6 +13,9 @@
 if not A_IsAdmin
 	Run *RunAs "%A_ScriptFullPath%"
 
+; Set the working directory to that of the script
+SetWorkingDir, %A_ScriptDir%
+
 #SingleInstance, Force
 #NoEnv
 SetBatchLines, -1
